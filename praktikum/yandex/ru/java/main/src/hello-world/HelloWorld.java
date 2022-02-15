@@ -1,8 +1,7 @@
-package Sprint1.java.ru.praktikumServices.qaScooter;
+package ru.yandex.praktikum;
 
-public class qaScooter {
+public class HelloWorld {
     public static void main(String[] args) {
-
         System.out.println("Hello world");
     }
 } 
